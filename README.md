@@ -1,7 +1,7 @@
 # spiral
 ## hacktoberfest 
 
-\#hacktoberfest2021
+\#hacktoberfest2022
 # running
 ```bash
 git clone https://github.com/GigaHertzLegacy-SpiderX/spiral
