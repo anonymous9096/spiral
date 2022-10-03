@@ -1,8 +1,10 @@
-## spiral
-# hacktoberfest 
-#hacktoberfest2021
+# spiral
+## hacktoberfest 
 
-# installation
-1. git clone https://github.com/GigaHertzLegacy-SpiderX/spiral
-2. cd spiral
-3. python spiral.py
+\#hacktoberfest2021
+# running
+```bash
+git clone https://github.com/GigaHertzLegacy-SpiderX/spiral
+cd spiral
+python spiral.py
+```
